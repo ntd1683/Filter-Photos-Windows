@@ -1,0 +1,10 @@
+D:\Learn\csharp\Filter Photo\filter photo\bin\Release\filter photo.exe.config
+D:\Learn\csharp\Filter Photo\filter photo\bin\Release\filter photo.exe
+D:\Learn\csharp\Filter Photo\filter photo\bin\Release\filter photo.pdb
+D:\Learn\csharp\Filter Photo\filter photo\obj\Release\filter photo.csproj.AssemblyReference.cache
+D:\Learn\csharp\Filter Photo\filter photo\obj\Release\filter_photo.Form1.resources
+D:\Learn\csharp\Filter Photo\filter photo\obj\Release\filter_photo.Properties.Resources.resources
+D:\Learn\csharp\Filter Photo\filter photo\obj\Release\filter photo.csproj.GenerateResource.cache
+D:\Learn\csharp\Filter Photo\filter photo\obj\Release\filter photo.csproj.CoreCompileInputs.cache
+D:\Learn\csharp\Filter Photo\filter photo\obj\Release\filter photo.exe
+D:\Learn\csharp\Filter Photo\filter photo\obj\Release\filter photo.pdb
